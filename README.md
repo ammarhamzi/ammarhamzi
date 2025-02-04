@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Ammar Hamzi! 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Passionate+Developer;AI+Enthusiast;Open+Source+Contributor;Tech+Explorer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Passionate+Developer;AI+Enthusiast;Tech+Explorer+🚀" />
 </p>
 
 ---
