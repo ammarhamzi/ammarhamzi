@@ -42,15 +42,3 @@
 
 ---
 
-### ⚡ Fun Fact
-💭 I believe **"Every great developer starts as a curious learner."**  
-🚀 Let's **build, collaborate, and innovate** together!  
-
-🎯 If you found my work interesting, consider leaving a ⭐ on my projects!
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammarhamzi&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammarhamzi&theme=radical" width="48%" />
-</p>
