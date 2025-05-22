@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-💡 Tech enthusiast who loves **AI, Web Development, and Open Source**.  
+💡 Tech enthusiast who loves **AI and Web App Development,**.  
 🎯 Always learning and building cool projects.  
 💻 Writing clean, scalable code & pushing boundaries.  
 
