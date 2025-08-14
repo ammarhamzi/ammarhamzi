@@ -15,7 +15,7 @@
 
 ## 🛠️ Tech Stack
 🔹 **Languages:** Java, Python, JavaScript, TypeScript  
-🔹 **Frontend:** React, Next.js, TailwindCSS  
+🔹 **Frontend:** Vue, React, TailwindCSS  
 🔹 **Backend:** Node.js, MVC, FastAPI  
 🔹 **AI & ML:** TensorFlow, Keras, OpenCV, NLP  
 🔹 **Databases:** PostgreSQL, Firebase, MongoDB  
